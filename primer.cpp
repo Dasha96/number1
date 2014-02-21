@@ -5,7 +5,7 @@ using namespace std;
 
 int main ()
 {
-    cout << "Hello world!!!\n";
+    cout << "Hello privet world!!!\n";
     getch();
     return 0;
 }
